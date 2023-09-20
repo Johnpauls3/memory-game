@@ -3,14 +3,14 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-  { name: 'ancylostoma', description: '../images/ancylostoma.png.' },
+  { name: 'ancylostoma', description: '../images/ancylostoma.png' },
   { name: 'ascaris', description: '../images/ascaris.png' },
   { name: 'entamoeba', description: '../images/entamoeba.png' },
   { name: 'enterobius', description: '../images/enterobius.png' },
   { name: 'giardia', description: '../images/giardia.png' },
   { name: 'hymenolepis', description: '../images/hymenolepis.png' },
-  { name: 'schistosoma', description: '../images/schistosoma.png.' },
-  { name: 'strongyloides', description: '../images/strongyloides.png.' },
+  { name: 'schistosoma', description: '../images/schistosoma.png' },
+  { name: 'strongyloides', description: '../images/strongyloides.png' },
   { name: 'taenia', description: '../images/taenia.png' },
   { name: 'trichuris', description: '../images/trichuris.png' },
 ];
