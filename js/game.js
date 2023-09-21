@@ -47,7 +47,7 @@ const checkCards = () => {
     descImgDiv.style.display = "block";
     setTimeout(() => {
       descImgDiv.style.display = "none";
-    }, 5000); // a imagem de descrição será exibida por 5 segundos.
+    }, 3000); // a imagem de descrição será exibida por 5 segundos.
 
     firstCard.firstChild.classList.add('disabled-card');
     secondCard.firstChild.classList.add('disabled-card');
